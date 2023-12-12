@@ -1,6 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+
 
 github_repos:
   - merterbak/stroke-prediction-model
