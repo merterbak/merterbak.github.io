@@ -7,8 +7,7 @@ first_name: Mert
 middle_name: 
 last_name: Erbak
 email: merterbak35@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-Hi There
+description: Hi There
 footer_text: 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
