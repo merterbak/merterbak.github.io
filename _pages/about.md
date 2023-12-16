@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title:  About
 permalink: /
 subtitle: <p> Izmir, Türkiye </p>
 
@@ -25,4 +25,6 @@ Hi, I'm Artificial Intelligence Engineering student at Bahcesehir University. De
     </div>
 </div>
 
-# Socials
+<div align="center">
+ <h1>Socials<h1>
+
