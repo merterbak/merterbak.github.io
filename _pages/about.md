@@ -2,7 +2,7 @@
 layout: about
 title:  About
 permalink: /
-subtitle: <p> Izmir, Türkiye </p>
+subtitle: <p> Artificial Intelligence Student at Bahcesehir University </p>
 
 profile:
   align: true
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-A forward-thinking and dynamic professional with a deep-rooted passion for Artificial Intelligence, Finance, and identifying future trends. My career is marked by a persistent drive to innovate and excel in these fields. I am a strong advocate for the power of teamwork and believe that collaborative efforts are the cornerstone of any significant achievement in today's fast-paced and technology-driven world.
+A forward-thinking and dynamic student with a deep-rooted passion for Artificial Intelligence, Finance, and future trends. My career is marked by a persistent drive to innovate and excel in these fields. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
