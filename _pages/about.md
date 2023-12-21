@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Artificial Intelligence Engineering student at Bahcesehir University. Deeply passionate about AI, Finance and future trends.
+A forward-thinking and dynamic professional with a deep-rooted passion for Artificial Intelligence, Finance, and identifying future trends. My career is marked by a persistent drive to innovate and excel in these fields. I am a strong advocate for the power of teamwork and believe that collaborative efforts are the cornerstone of any significant achievement in today's fast-paced and technology-driven world.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
