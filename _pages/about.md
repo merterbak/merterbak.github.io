@@ -19,12 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 A forward-thinking and dynamic student with a deep-rooted passion for Artificial Intelligence, Finance, and future trends. My career is marked by a persistent drive to innovate and excel in these fields. 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/aaaa.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-</div>
-
 <div align="center">
  <h1>Socials<h1>
 
