@@ -1,45 +1,22 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Mert Erbak
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
+- title: Certificates
   type: time_table
   contents:
-    - title: Highschool
-      institution: Özel Ege Lisesi
-      year: 2017-2021
-     
-    - title: Bachelor's Degree
-      institution: Bahcesehir University
-      year: 2021-2025
+    - title: <a href="https://coursera.org/share/70c599b2175a737cb9b47aadda4d0c2d">Machine Learning with Python - Coursera </a>
       description:
-        - Artificial Intelligence Engineering
+        - IBM
+    - title: <a href="https://coursera.org/share/c9cfc52e60c42f3ab8c4f08f0e8fdf6c">Introduction to Microsoft Azure Cloud Services - Coursera</a>
+      description:
+        - Microsoft
+    - title: <a href="https://www.hackerrank.com/certificates/b0c7017fe2c9">SQL - Hackerrank </a>
+    - title: <a href="https://www.hackerrank.com/certificates/cd2f301c4ee6">Python - Hackerrank </a>
+    - title: <a href="https://coursera.org/share/70c599b2175a737cb9b47aadda4d0c2d">Introduction to Applied Machine Learning - Coursera </a>
+      description:
+        - Alberta Machine Intelligence Institute
+    - title: <a href="https://coursera.org/share/70c599b2175a737cb9b47aadda4d0c2d">Algorithms for Searching, Sorting, and Indexing - Coursera </a>
+      description:
+        - University of Colorado Boulder
 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 
-      items: 
-        - 
-    - year: 2029
-      items: 
-        - 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Machine Learning
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+
+
